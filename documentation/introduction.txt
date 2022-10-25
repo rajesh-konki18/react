@@ -1,0 +1,11 @@
+React
+    Client side Javascript library
+
+why react instead just JS?
+    complexity on adding handlers
+    need to write every single step that happen
+    imperitive approach 
+    React make use every element as small building blocks
+    maintainable and manageble
+
+ 
