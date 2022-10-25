@@ -1,0 +1,60 @@
+React
+    Client side Javascript library
+
+why react instead just JS?
+    complexity on adding handlers
+    need to write every single step that happen
+    imperitive approach 
+    React make use every element as small building blocks
+    maintainable and manageble
+
+ Single Page applications
+
+ Alternatives
+    Angular
+    Vue.js
+    
+    
+ Javascript Refresher
+
+    let vs const
+
+        creating variables
+        const - never changed
+
+    jsbin.com // online js editor
+
+    Array Functions
+              const myFun = () =>{}
+              const myFun = name => {}  //correct as single param.
+              const myFun = name, age => {} //wrong
+              const myFun = (name, age) => {} 
+              const myFun = num => num * 2     
+
+    Exports & Imports(Modules)
+        export ----> import
+        default exports vs named exports
+
+    classes
+        Blueprints of objects
+        properties and methods
+        create object with new keyword.
+        inheritance support with extends keyword.
+
+            class Person{
+                constructor(){
+                    this.name = 'Raj';
+                }
+
+                printMyName(){
+                    console.log(this.name);
+                }
+            }   
+
+    classes, properties and methods
+    spread and Rest operators
+        ... => split array objects (spread)  
+        ... => function myFun(...arg){   // (Rest) get unlimited no of args.
+
+        }      
+
